@@ -10,9 +10,6 @@ Shareable **Renovate Config** with the following defaults:
 
 Add this to your `renovate.json`:
 
-```jsonc
-{
-  "extends": ["github>kh4f/renovate-config"],
-  // ...
-}
+```json
+"extends": ["github>kh4f/renovate-config"],
 ```
