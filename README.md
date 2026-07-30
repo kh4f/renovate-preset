@@ -11,5 +11,5 @@ Shareable **Renovate preset** with the following defaults:
 Add this to your `renovate.json`:
 
 ```json
-"extends": ["github>kh4f/renovate-config"],
+"extends": ["github>kh4f/renovate-preset"],
 ```
