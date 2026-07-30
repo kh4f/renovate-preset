@@ -1,4 +1,4 @@
-# ⚙️ kh4f’s Renovate Preset
+# 🤖 kh4f’s Renovate Preset
 
 Shareable **Renovate preset** with the following defaults:
 - safe automerge for minor/patch with a 3‑day release‑age delay
