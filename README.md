@@ -1,6 +1,6 @@
 # ⚙️ kh4f’s Renovate Preset
 
-Shareable **Renovate Config** with the following defaults:
+Shareable **Renovate preset** with the following defaults:
 - safe automerge for minor/patch with a 3‑day release‑age delay
 - semantic commits
 - clean branch naming
